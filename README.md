@@ -7,7 +7,7 @@
 ## 0.1 Executive Summary
 In this project, we aim to understand the problems faced by LuLu shopping mall located in Port Blair, Andaman and Nicobar Islands. The shop is owned by Mr. Abdul Kadar and has been operational since 2011, employing around 32 workers. The store sells electronics and gift items, including household goods, mobile phones, laptops, TVs, refrigerators, and air conditioners.
 
-Our task is to use data analysis to help increase the shop's profit by reducing unnecessary costs and identifying the top-selling goods. The analysis will include plotting sales trends and using machine learning models to predict sales.
+Our task is to use data analysis to help increase the shop's profit by reducing unnecessary costs and identifying the top-selling goods. The analysis will include plotting sales trends and visualising data using Excel and PowerBI and using machine learning to predict sales.
 
 ## 0.2 Dataset Of LuLu Shopping Mall
 The dataset for this project was collected from the store's system after a personal meeting with the owner. The data includes sales information for June 2022, with more than 4500 rows and the following columns:
