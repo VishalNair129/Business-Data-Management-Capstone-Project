@@ -48,8 +48,9 @@ Sales trendlines show how sales vary over time. The sales growth graph provides 
 
 ### 0.4.2 Analysis Tools and Techniques Used
 
-#### For Graphs and Pareto Analysis: Excel
-Excel is used to plot various graphs like bar charts, scatter plots, histograms, and pie charts. Pivot tables in Excel help arrange data in the required format for analysis. Pareto analysis was performed to identify the top 6 product fields contributing the most to revenue.
+#### For Graphs and Pareto Analysis: Excel and Power BI
+Excel is used to plot various graphs like bar charts, scatter plots, histograms, and pie charts. Pivot tables in Excel help arrange data in the required format for analysis. Pareto analysis was performed to identify the top 6 product fields contributing the most to revenue. Additionally, **Power BI** was utilized for more advanced data visualizations and dynamic dashboards, enabling the presentation of insights through interactive reports. Power BI’s robust visualization capabilities helped provide a clearer understanding of sales trends and correlations, making it easier to identify key areas for improvement.
+
 
 #### For Sales Prediction: Python
 Python, along with libraries like NumPy, pandas, and sklearn, is used for sales prediction. Pairplots and heatmaps help visualize correlations between investment and sales. A Linear Regression model is built using sklearn to predict sales based on investment data.
